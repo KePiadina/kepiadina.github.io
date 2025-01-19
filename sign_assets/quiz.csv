@@ -1,0 +1,111 @@
+Distanziamento minimo obbligatorio di # metri;1;divieto
+Divieto di fermata;2;divieto
+Divieto di segnalazioni acustiche;3;divieto
+Divieto di sorpasso;4;divieto
+Divieto di sorpasso per i veicoli di m.c.p.c superiore a 3.5 tonnellate;5;divieto
+Divieto di sosta;6;divieto
+Divieto di transito;7;divieto
+Transito vietato ai veicoli che trasportano merci pericolose;8;divieto
+Transito vietato a tutti gli autoveicoli;9;divieto
+Transito vietato ai veicoli a braccia;10;divieto
+Transito vietato agli autobus;11;divieto
+Transito vietato ai veicoli che trasportano prodotti suscettibili di contaminare l'acqua;12;divieto
+Transito vietato ai veicoli a motore trainanti un rimorchio;13;divieto
+Transito vietato ai veicoli che trasportano esplosivi o prodotti facilmente infiammabili;14;divieto
+Transito vietato ai veicoli di m.c.p.c. superiore a 3.5 tonnellate;15;divieto
+Transito vietato ai veicoli; o complessi di veicoli; aventi lunghezza superiore a # metri;16;divieto
+Transito vietato ai veicoli a trazione animale;17;divieto
+Transito vietato alle macchine agricole;18;divieto
+Transito vietato ai veicoli aventi altezza superiore a # metri;19;divieto
+Transito vietato ai veicoli aventi larghezza superiore a # metri;20;divieto
+Transito vietato ai motocicli;21;divieto
+Fine del divieto di sorpasso;22;divieto
+Fine del divieto di sorpasso per i veicoli di m.c.p.c superiore a 3.5 tonnellate;23;divieto
+Fine del limite di velocità;24;divieto
+Limite di velocità di # km/h;25;divieto
+Divieto di accesso;26;divieto
+Transito vietato ai pedoni;27;divieto
+Transito vietato ai veicoli avente massa per asse superiore a # tonnellate;28;divieto
+Transito vietato ai veicoli aventi una massa superiore a # tonnellate;29;divieto
+Transito vietato ai veicoli di m.c.p.c. superiore a # tonnellate;30;divieto
+Transito vietato alle biciclette;31;divieto
+Via libera;32;divieto
+Incidente;1;informazione
+Infopoint e/o albergo a # metri;2;informazione
+Fine autostrada;3;informazione
+Inizio autostrada;4;informazione
+Fermata autobus;5;informazione
+Albergo;6;informazione
+Auto al seguito;7;informazione
+Area campeggio;11;informazione
+Infopoint;12;informazione
+Parcheggio di scambio con linee autobus;13;informazione
+Parcheggio di scambio con linee ferroviarie;14;informazione
+Pronto soccorso;15;informazione
+Stazione di rifornimento;16;informazione
+Stazione di rifornimento green;17;informazione
+Assistenza meccanica;18;informazione
+Area ristoro;19;informazione
+Telefono pubblico;20;informazione
+Area attrezzata con impianti di scarico;21;informazione
+Zona picnic;22;informazione
+Parcheggio di scambio con sentieri da camminata;24;informazione
+Obbligo di catene da neve;1;obbligo
+Direzione obbligatoria a destra;2;obbligo
+Direzione obbligatoria a sinistra;3;obbligo
+Direzione obbligatoria dritto;4;obbligo
+Direzioni consentite destra e sinistra;5;obbligo
+Direzioni consentite dritto e destra;6;obbligo
+Direzioni consentite dritto e sinistra;7;obbligo
+Passaggio obbligatorio a destra;8;obbligo
+Passaggio obbligatorio a sinistra;9;obbligo
+Preavviso di direzione obbligatoria a destra;10;obbligo
+Preavviso di direzione obbligatoria a sinistra;11;obbligo
+Senso unico a destra;12;obbligo
+Senso unico frontale;13;obbligo
+Pericolo Aeromobili;1;pericolo
+Pericolo generico;2;pericolo
+Pericolo animali domestici vaganti;3;pericolo
+Pericolo animali selvatici vaganti;4;pericolo
+Pericolo attraversamento ciclabile;5;pericolo
+Pericolo attraversamento pedonale;6;pericolo
+Attraversamento tranviario;7;pericolo
+Pericolo bambini;8;pericolo
+Pericolo banchina pericolosa;9;pericolo
+Caduta massi a destra;10;pericolo
+Caduta massi a sinistra;11;pericolo
+Circolazione rotatoria;12;pericolo
+Cunetta;13;pericolo
+Curva a destra;14;pericolo
+Curva a sinistra;15;pericolo
+Discesa pericolosa;16;pericolo
+Doppia curva, la prima a destra;17;pericolo
+Doppia curva, la prima a sinistra;18;pericolo
+Dosso;19;pericolo
+Forte vento laterale;20;pericolo
+Materiale instabile sulla strada;21;pericolo
+Passaggio a livello con barriere p semibarriere;22;pericolo
+Passaggio a livello senza barriere o semibarriere;23;pericolo
+Pericolo di incendio;24;pericolo
+Ponte mobile;25;pericolo
+Salita ripida;26;pericolo
+Sbocco su molo o argine;27;pericolo
+Semaforo orizzontale;28;pericolo
+Semaforo verticale;29;pericolo
+Strada deformata;30;pericolo
+Strada sdrucciolevole;31;pericolo
+Strettoia a destra;32;pericolo
+Strettoia a sinistra;33;pericolo
+Strettoia simmetrica;34;pericolo
+Confluenza a destra;1;precedenza
+Confluenza a sinistra;2;precedenza
+Dare precedenza;3;precedenza
+Dare precedenza nei sensi unici alternati;4;precedenza
+Diritto di precedenza;5;precedenza
+Diritto di precedenza nei sensi unici alternati;6;precedenza
+Doppio senso di circolazione;7;precedenza
+Fermarsi e dare precedenza;8;precedenza
+Fine del diritto di precedenza;9;precedenza
+Intersezione a T con diritto di precedenza;10;precedenza
+Intersezione con diritto di precedenza;12;precedenza
+Intersezione con precedenza a destra;13;precedenza
