@@ -1,0 +1,247 @@
+2024-09-13 19:02:36 - User answer for Question 0: Dare precedenza
+2024-09-13 19:03:09 - User answer for Question 1: Dare precedenza
+2024-09-13 19:03:14 - User answer for Question 2: Passaggio obbligatorio a sinistra
+2024-09-13 19:03:18 - User answer for Question 3: Passaggio obbligatorio a destra
+2024-09-13 19:03:22 - User answer for Question 4: Doppia curva, la prima a destra
+2024-09-13 19:03:25 - User answer for Question 5: Area campeggio
+2024-09-13 19:08:37 - User answer for Question 0: Parcheggio di scambio con linee autobus
+2024-09-13 19:08:41 - User answer for Question 1: Fermarsi e dare precedenza
+2024-09-13 19:10:17 - User answer for Question 6: Fine del limite di velocità
+2024-09-13 19:14:16 - User answer for Question 0: Strada deformata
+2024-09-13 19:14:31 - User answer for Question 1: Divieto di fermata
+2024-09-13 19:14:35 - User answer for Question 2: Forte vento laterale
+2024-09-13 19:14:44 - User answer for Question 3: Pericolo attraversamento pedonale
+2024-09-13 19:14:50 - User answer for Question 4: Pericolo banchina pericolosa
+2024-09-13 19:15:04 - User answer for Question 5: Transito vietato ai veicoli che trasportano esplosivi o prodotti facilmente infiammabili
+2024-09-13 19:15:08 - User answer for Question 6: Pericolo di incendio
+2024-09-13 19:15:21 - User answer for Question 7: Intersezione con precedenza a destra
+2024-09-13 19:15:33 - User answer for Question 8: Strada sdrucciolevole
+2024-09-13 19:15:39 - User answer for Question 9: Infopoint e/o albergo a # metri
+2024-09-13 19:16:00 - User answer for Question 10: Albergo
+2024-09-13 19:17:48 - User answer for Question 11: Caduta massi a sinistra
+2024-09-13 19:17:54 - User answer for Question 12: Strettoia simmetrica
+2024-09-13 19:18:05 - User answer for Question 13: Senso unico a destra
+2024-09-13 19:18:15 - User answer for Question 14: Cunetta
+2024-09-13 19:18:20 - User answer for Question 15: Divieto di sosta
+2024-09-13 19:18:27 - User answer for Question 16: Salita ripida
+2024-09-13 19:18:36 - User answer for Question 17: Transito vietato ai motocicli
+2024-09-13 19:18:39 - User answer for Question 18: Divieto di accesso
+2024-09-13 19:18:42 - User answer for Question 19: Area ristoro
+2024-09-13 19:18:45 - User answer for Question 20: Inizio autostrada
+2024-09-13 19:18:49 - User answer for Question 21: Direzione obbligatoria a sinistra
+2024-09-13 19:19:12 - User answer for Question 22: Transito vietato ai veicoli che trasportano prodotti suscettibili di contaminare l'acqua
+2024-09-13 19:19:16 - User answer for Question 23: Passaggio obbligatorio a destra
+2024-09-13 19:19:29 - User answer for Question 24: Doppia curva, la prima a sinistra
+2024-09-13 19:19:31 - User answer for Question 0: Caduta massi a destra
+2024-09-13 19:19:38 - User answer for Question 25: Transito vietato ai veicoli aventi altezza superiore a # metri
+2024-09-13 19:19:41 - User answer for Question 26: Pronto soccorso
+2024-09-13 19:19:46 - User answer for Question 1: Transito vietato alle macchine agricole
+2024-09-13 19:19:53 - User answer for Question 27: Pericolo Aeromobili
+2024-09-13 19:19:57 - User answer for Question 2: Senso unico a destra
+2024-09-13 19:20:05 - User answer for Question 3: Doppia curva, la prima a sinistra
+2024-09-13 19:20:10 - User answer for Question 4: Pericolo animali selvatici vaganti
+2024-09-13 19:20:13 - User answer for Question 28: Confluenza a destra
+2024-09-13 19:20:21 - User answer for Question 5: Divieto di sorpasso
+2024-09-13 19:21:01 - User answer for Question 6: Distanziamento minimo obbligatorio di # metri
+2024-09-13 19:21:12 - User answer for Question 7: Transito vietato ai veicoli aventi altezza superiore a # metri
+2024-09-13 19:21:13 - User answer for Question 29: Pericolo generico
+2024-09-13 19:21:18 - User answer for Question 30: Semaforo verticale
+2024-09-13 19:21:21 - User answer for Question 31: Passaggio obbligatorio a sinistra
+2024-09-13 19:21:28 - User answer for Question 32: Fermarsi e dare precedenza
+2024-09-13 19:21:43 - User answer for Question 8: Transito vietato ai veicoli aventi altezza superiore a # metri
+2024-09-13 19:21:43 - User answer for Question 9: Transito vietato ai veicoli aventi altezza superiore a # metri
+2024-09-13 19:21:43 - User answer for Question 10: Transito vietato ai veicoli aventi altezza superiore a # metri
+2024-09-13 19:21:48 - User answer for Question 7: Infopoint
+2024-09-13 19:26:32 - User answer for Question 8: Infopoint
+2024-09-13 19:26:38 - User answer for Question 0: Pericolo animali selvatici vaganti
+2024-09-13 19:26:40 - User answer for Question 1: Strettoia simmetrica
+2024-09-13 19:26:53 - User answer for Question 9: Via libera
+2024-09-13 19:26:55 - User answer for Question 10: Pericolo animali selvatici vaganti
+2024-09-13 19:26:59 - User answer for Question 11: Obbligo di catene da neve
+2024-09-13 20:09:03 - User answer for Question 0: Direzioni consentite dritto e sinistra
+2024-09-13 20:09:45 - User answer for Question 1: Via libera
+2024-09-13 20:09:51 - User answer for Question 2: Area campeggio
+2024-09-13 20:10:21 - User answer for Question 3: Transito vietato ai veicoli di m.c.p.c. superiore a # tonnellate
+2024-09-13 20:10:31 - User answer for Question 4: Direzione obbligatoria dritto
+2024-09-13 20:10:35 - User answer for Question 5: Curva a sinistra
+2024-09-13 20:10:41 - User answer for Question 6: Transito vietato ai veicoli aventi altezza superiore a # metri
+2024-09-13 20:10:54 - User answer for Question 7: Passaggio obbligatorio a sinistra
+2024-09-13 20:11:09 - User answer for Question 8: Passaggio a livello con barriere p semibarriere
+2024-09-13 20:11:14 - User answer for Question 9: Sbocco su molo o argine
+2024-09-13 20:11:16 - User answer for Question 10: Infopoint
+2024-09-13 20:11:21 - User answer for Question 11: Discesa pericolosa
+2024-09-13 20:11:25 - User answer for Question 12: Ponte mobile
+2024-09-13 20:11:31 - User answer for Question 13: Semaforo orizzontale
+2024-09-13 20:11:40 - User answer for Question 14: Divieto di sorpasso per i veicoli di m.c.p.c superiore a 3.5 tonnellate
+2024-09-13 20:13:58 - User answer for Question 0: Divieto di segnalazioni acustiche
+2024-09-13 20:14:08 - User answer for Question 1: Caduta massi a sinistra
+2024-09-13 20:58:20 - User answer for Question 0: Transito vietato alle biciclette
+2024-09-13 20:58:31 - User answer for Question 1: Transito vietato ai veicoli aventi larghezza superiore a # metri
+2024-09-13 20:58:35 - User answer for Question 2: Pericolo attraversamento ciclabile
+2024-09-13 20:58:37 - User answer for Question 3: Pericolo Aeromobili
+2024-09-13 20:58:39 - User answer for Question 4: Transito vietato ai veicoli che trasportano merci pericolose
+2024-09-13 20:58:41 - User answer for Question 5: Senso unico a destra
+2024-09-13 20:58:45 - User answer for Question 6: Passaggio a livello con barriere p semibarriere
+2024-09-13 20:59:00 - User answer for Question 7: Area attrezzata con impianti di scarico
+2024-09-13 20:59:05 - User answer for Question 8: Assistenza meccanica
+2024-09-13 20:59:11 - User answer for Question 9: Divieto di sorpasso
+2024-09-13 20:59:14 - User answer for Question 10: Pericolo Aeromobili
+2024-09-13 20:59:24 - User answer for Question 11: Area ristoro
+2024-09-13 20:59:32 - User answer for Question 12: Transito vietato ai veicoli avente massa per asse superiore a # tonnellate
+2024-09-13 20:59:35 - User answer for Question 13: Pericolo animali domestici vaganti
+2024-09-13 20:59:43 - User answer for Question 0: Direzioni consentite destra e sinistra
+2024-09-13 20:59:51 - User answer for Question 1: Caduta massi a sinistra
+2024-09-13 21:00:13 - User answer for Question 14: Passaggio a livello con barriere p semibarriere
+2024-09-13 21:00:20 - User answer for Question 15: Forte vento laterale
+2024-09-13 21:00:41 - User answer for Question 16: Parcheggio di scambio con linee autobus
+2024-09-14 06:10:56 - User answer for Question 0: Dosso
+2024-09-14 06:11:03 - User answer for Question 1: Divieto di sosta
+2024-09-14 06:11:13 - User answer for Question 2: Transito vietato ai veicoli aventi larghezza superiore a # metri
+2024-09-14 06:11:16 - User answer for Question 3: Strettoia a sinistra
+2024-09-14 06:11:21 - User answer for Question 4: Cunetta
+2024-09-14 06:11:27 - User answer for Question 5: Direzioni consentite dritto e sinistra
+2024-09-14 06:11:38 - User answer for Question 6: Intersezione con diritto di precedenza
+2024-09-14 06:11:42 - User answer for Question 7: Inizio autostrada
+2024-09-14 06:11:48 - User answer for Question 8: Transito vietato alle biciclette
+2024-09-14 06:11:52 - User answer for Question 9: Circolazione rotatoria
+2024-09-14 06:11:59 - User answer for Question 10: Transito vietato ai veicoli a trazione animale
+2024-09-14 06:12:04 - User answer for Question 11: Discesa pericolosa
+2024-09-14 06:12:06 - User answer for Question 12: Incidente
+2024-09-14 06:12:09 - User answer for Question 13: Pericolo di incendio
+2024-09-14 06:12:14 - User answer for Question 14: Stazione di rifornimento
+2024-09-14 06:12:28 - User answer for Question 15: Passaggio obbligatorio a sinistra
+2024-09-14 06:12:31 - User answer for Question 16: Fine del limite di velocità
+2024-09-14 06:12:38 - User answer for Question 17: Transito vietato agli autobus
+2024-09-14 06:12:47 - User answer for Question 18: Infopoint e/o albergo a # metri
+2024-09-14 06:12:50 - User answer for Question 19: Infopoint e/o albergo a # metri
+2024-09-14 06:13:11 - User answer for Question 20: Diritto di precedenza nei sensi unici alternati
+2024-09-14 06:13:22 - User answer for Question 21: Transito vietato a tutti gli autoveicoli
+2024-09-14 06:13:26 - User answer for Question 22: Transito vietato ai veicoli che trasportano esplosivi o prodotti facilmente infiammabili
+2024-09-14 06:13:31 - User answer for Question 23: Pericolo animali domestici vaganti
+2024-09-14 06:13:34 - User answer for Question 24: Fine autostrada
+2024-09-14 06:13:38 - User answer for Question 25: Obbligo di catene da neve
+2024-09-14 06:13:43 - User answer for Question 26: Doppia curva, la prima a sinistra
+2024-09-14 06:13:47 - User answer for Question 27: Fermarsi e dare precedenza
+2024-09-14 06:13:53 - User answer for Question 28: Transito vietato a tutti gli autoveicoli
+2024-09-14 06:13:58 - User answer for Question 29: Fermata autobus
+2024-09-14 06:14:01 - User answer for Question 30: Passaggio a livello senza barriere o semibarriere
+2024-09-14 06:14:07 - User answer for Question 31: Forte vento laterale
+2024-09-14 06:14:10 - User answer for Question 32: Attraversamento tranviario
+2024-09-14 06:14:14 - User answer for Question 33: Telefono pubblico
+2024-09-14 06:14:17 - User answer for Question 34: Preavviso di direzione obbligatoria a destra
+2024-09-14 06:14:19 - User answer for Question 35: Pronto soccorso
+2024-09-14 06:14:25 - User answer for Question 36: Parcheggio di scambio con sentieri da camminata
+2024-09-14 06:14:29 - User answer for Question 37: Transito vietato ai veicoli che trasportano prodotti suscettibili di contaminare l'acqua
+2024-09-14 06:14:32 - User answer for Question 38: Transito vietato alle macchine agricole
+2024-09-14 06:14:37 - User answer for Question 39: Divieto di fermata
+2024-09-14 06:14:39 - User answer for Question 40: Transito vietato ai veicoli a braccia
+2024-09-14 06:14:42 - User answer for Question 41: Direzione obbligatoria a sinistra
+2024-09-14 06:14:47 - User answer for Question 42: Parcheggio di scambio con linee autobus
+2024-09-14 06:14:51 - User answer for Question 43: Direzione obbligatoria a destra
+2024-09-14 06:15:00 - User answer for Question 44: Transito vietato ai veicoli aventi una massa superiore a # tonnellate
+2024-09-14 06:15:03 - User answer for Question 45: Caduta massi a destra
+2024-09-14 06:15:06 - User answer for Question 46: Area attrezzata con impianti di scarico
+2024-09-14 06:15:09 - User answer for Question 47: Confluenza a destra
+2024-09-14 06:15:13 - User answer for Question 48: Limite di velocità di # km/h
+2024-09-14 06:15:19 - User answer for Question 49: Direzioni consentite dritto e destra
+2024-09-14 06:15:22 - User answer for Question 50: Materiale instabile sulla strada
+2024-09-14 06:15:26 - User answer for Question 51: Strada sdrucciolevole
+2024-09-14 06:15:31 - User answer for Question 52: Diritto di precedenza nei sensi unici alternati
+2024-09-14 06:15:35 - User answer for Question 53: Fine del divieto di sorpasso
+2024-09-14 06:15:39 - User answer for Question 54: Confluenza a sinistra
+2024-09-14 06:15:44 - User answer for Question 55: Parcheggio di scambio con linee ferroviarie
+2024-09-14 06:15:48 - User answer for Question 56: Divieto di sorpasso
+2024-09-14 06:15:51 - User answer for Question 57: Infopoint
+2024-09-14 06:15:56 - User answer for Question 58: Transito vietato ai veicoli a motore trainanti un rimorchio
+2024-09-14 06:15:58 - User answer for Question 59: Curva a destra
+2024-09-14 06:16:00 - User answer for Question 60: Pericolo Aeromobili
+2024-09-14 10:50:07 - User answer for Question 0: Transito vietato a tutti gli autoveicoli
+2024-09-14 10:50:21 - User answer for Question 1: Parcheggio di scambio con linee ferroviarie
+2024-09-14 10:50:35 - User answer for Question 2: Attraversamento tranviario
+2024-09-14 10:50:43 - User answer for Question 3: Transito vietato ai veicoli di m.c.p.c. superiore a 3.5 tonnellate
+2024-09-14 10:50:56 - User answer for Question 4: Cunetta
+2024-09-14 10:51:06 - User answer for Question 5: Limite di velocità di # km/h
+2024-09-14 10:51:14 - User answer for Question 6: Fine del divieto di sorpasso
+2024-09-14 10:51:22 - User answer for Question 7: Direzioni consentite destra e sinistra
+2024-09-14 10:51:36 - User answer for Question 8: Transito vietato ai veicoli aventi larghezza superiore a # metri
+2024-09-14 10:51:44 - User answer for Question 9: Confluenza a sinistra
+2024-09-14 10:51:53 - User answer for Question 10: Pericolo bambini
+2024-09-14 10:51:58 - User answer for Question 11: Pericolo animali selvatici vaganti
+2024-09-14 10:52:14 - User answer for Question 12: Preavviso di direzione obbligatoria a sinistra
+2024-09-14 10:52:23 - User answer for Question 13: Divieto di segnalazioni acustiche
+2024-09-14 10:52:29 - User answer for Question 14: Curva a sinistra
+2024-09-14 10:52:36 - User answer for Question 15: Assistenza meccanica
+2024-09-14 10:52:42 - User answer for Question 16: Albergo
+2024-09-14 10:52:52 - User answer for Question 17: Fermata autobus
+2024-09-14 10:52:58 - User answer for Question 18: Pericolo Aeromobili
+2024-09-14 10:53:21 - User answer for Question 19: Transito vietato alle biciclette
+2024-09-14 10:53:37 - User answer for Question 20: Dare precedenza nei sensi unici alternati
+2024-09-14 10:53:50 - User answer for Question 21: Intersezione con precedenza a destra
+2024-09-14 10:54:01 - User answer for Question 22: Intersezione con diritto di precedenza
+2024-09-14 10:54:13 - User answer for Question 23: Confluenza a destra
+2024-09-14 10:54:20 - User answer for Question 24: Inizio autostrada
+2024-09-14 10:54:25 - User answer for Question 25: Obbligo di catene da neve
+2024-09-14 10:54:31 - User answer for Question 26: Divieto di sorpasso
+2024-09-14 10:54:43 - User answer for Question 27: Doppio senso di circolazione
+2024-09-14 10:55:02 - User answer for Question 28: Parcheggio di scambio con sentieri da camminata
+2024-09-14 10:55:09 - User answer for Question 29: Forte vento laterale
+2024-09-14 10:55:17 - User answer for Question 30: Semaforo verticale
+2024-09-14 10:55:24 - User answer for Question 31: Transito vietato ai veicoli avente massa per asse superiore a # tonnellate
+2024-09-14 10:55:29 - User answer for Question 32: Strettoia simmetrica
+2024-09-14 10:55:52 - User answer for Question 33: Transito vietato ai veicoli di m.c.p.c. superiore a # tonnellate
+2024-09-14 10:55:59 - User answer for Question 34: Dare precedenza
+2024-09-14 10:56:09 - User answer for Question 35: Transito vietato ai veicoli che trasportano prodotti suscettibili di contaminare l'acqua
+2024-09-14 10:56:26 - User answer for Question 36: Auto al seguito
+2024-09-14 10:56:34 - User answer for Question 37: Direzioni consentite dritto e sinistra
+2024-09-14 10:56:45 - User answer for Question 38: Transito vietato ai veicoli aventi altezza superiore a # metri
+2024-09-14 10:56:51 - User answer for Question 39: Caduta massi a destra
+2024-09-14 10:56:57 - User answer for Question 40: Pronto soccorso
+2024-09-14 10:57:03 - User answer for Question 41: Transito vietato ai veicoli che trasportano merci pericolose
+2024-09-14 10:57:08 - User answer for Question 42: Strettoia a destra
+2024-09-14 10:57:22 - User answer for Question 43: Senso unico a destra
+2024-09-14 10:57:28 - User answer for Question 44: Area ristoro
+2024-09-14 10:57:33 - User answer for Question 45: Stazione di rifornimento green
+2024-09-14 10:57:40 - User answer for Question 46: Transito vietato ai veicoli aventi una massa superiore a # tonnellate
+2024-09-14 10:57:43 - User answer for Question 47: Area attrezzata con impianti di scarico
+2024-09-14 10:57:56 - User answer for Question 48: Via libera
+2024-09-14 10:57:59 - User answer for Question 49: Incidente
+2024-09-14 10:58:03 - User answer for Question 50: Pericolo di incendio
+2024-09-14 10:58:07 - User answer for Question 51: Transito vietato ai veicoli a braccia
+2024-09-14 10:58:12 - User answer for Question 52: Divieto di sosta
+2024-09-14 10:58:16 - User answer for Question 53: Strettoia a sinistra
+2024-09-14 10:58:21 - User answer for Question 54: Transito vietato ai veicoli a trazione animale
+2024-09-14 10:58:27 - User answer for Question 55: Passaggio a livello con barriere p semibarriere
+2024-09-14 10:58:32 - User answer for Question 56: Transito vietato agli autobus
+2024-09-14 10:58:39 - User answer for Question 57: Transito vietato alle macchine agricole
+2024-09-14 10:58:42 - User answer for Question 58: Stazione di rifornimento
+2024-09-14 10:58:51 - User answer for Question 59: Intersezione con diritto di precedenza
+2024-09-14 10:58:59 - User answer for Question 60: Circolazione rotatoria
+2024-09-14 10:59:06 - User answer for Question 61: Divieto di accesso
+2024-09-14 10:59:15 - User answer for Question 62: Transito vietato ai veicoli a motore trainanti un rimorchio
+2024-09-14 10:59:23 - User answer for Question 63: Area campeggio
+2024-09-14 10:59:32 - User answer for Question 64: Transito vietato ai veicoli che trasportano esplosivi o prodotti facilmente infiammabili
+2024-09-14 10:59:40 - User answer for Question 65: Passaggio obbligatorio a destra
+2024-09-14 10:59:47 - User answer for Question 66: Discesa pericolosa
+2024-09-14 10:59:52 - User answer for Question 67: Divieto di fermata
+2024-09-17 20:42:00 - User answer for Question 0: Divieto di accesso
+2024-09-17 20:42:05 - User answer for Question 1: Passaggio a livello con barriere p semibarriere
+2024-09-17 20:42:08 - User answer for Question 2: Discesa pericolosa
+2024-09-17 20:42:11 - User answer for Question 3: Discesa pericolosa
+2024-09-17 20:42:25 - User answer for Question 4: Transito vietato a tutti gli autoveicoli
+2024-09-17 20:42:29 - User answer for Question 5: Doppia curva, la prima a sinistra
+2024-09-20 18:54:54 - User answer for Question 0: Transito vietato agli autobus
+2024-09-20 18:55:15 - User answer for Question 1: Transito vietato ai veicoli a motore trainanti un rimorchio
+2024-09-20 18:55:19 - User answer for Question 2: Direzione obbligatoria dritto
+2024-09-20 18:55:24 - User answer for Question 3: Discesa pericolosa
+2024-09-20 18:55:32 - User answer for Question 4: Distanziamento minimo obbligatorio di # metri
+2024-09-20 18:55:36 - User answer for Question 5: Doppia curva, la prima a sinistra
+2024-09-20 18:55:39 - User answer for Question 6: Fine autostrada
+2024-09-20 18:55:43 - User answer for Question 7: Attraversamento tranviario
+2024-09-20 18:55:46 - User answer for Question 8: Doppia curva, la prima a destra
+2024-09-20 18:55:51 - User answer for Question 9: Parcheggio di scambio con sentieri da camminata
+2024-09-20 18:55:55 - User answer for Question 10: Area attrezzata con impianti di scarico
+2024-09-20 18:55:58 - User answer for Question 11: Pronto soccorso
+2024-09-20 18:56:07 - User answer for Question 12: Preavviso di direzione obbligatoria a sinistra
+2024-09-20 18:56:12 - User answer for Question 13: Divieto di transito
+2024-09-20 18:56:19 - User answer for Question 14: Area campeggio
+2024-11-05 17:29:50 - User answer for Question 0: Sbocco su molo o argine
